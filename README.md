@@ -12,7 +12,7 @@ pip install git+https://pypi.org/project/alexa-reply/
 ```
 
 ```cmd
-# from github : stable
+# from pypi : stable
 
 pip install alexa-reply
 ```
